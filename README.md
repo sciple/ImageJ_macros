@@ -1,1 +1,5 @@
-# ImageJ_macros
+ImageJ_macros
+=============
+
+Collection of ImageJ Macros.
+
